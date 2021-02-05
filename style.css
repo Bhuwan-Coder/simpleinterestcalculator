@@ -1,0 +1,53 @@
+h1{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: crimson;
+}
+#si{
+    text-align: center;
+    margin-top: 95px;
+    color:crimson;
+}
+#p,#t,#s{
+    text-align: center;
+    font-weight: bold;
+}
+#clear{
+    text-align: center;
+}
+#result{
+    text-align: center;
+    font-size: 25px;
+}
+#cal{
+    color: crimson;
+    background-color: lawngreen;
+    height: 35px;
+    width: 85px;
+}
+body{
+    background-color:aquamarine;
+}
+#cal:hover{
+    background-color:lime;
+    color: white;
+    transition: .9s ;
+    font-weight: bolder;
+    
+}
+h3{
+    text-align: center;
+    cursor: pointer;
+    color: green;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+}
+b{
+    color: red;
+    text-decoration: none;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+b:hover{
+    color: blue;
+    transition: .9s;
+}
